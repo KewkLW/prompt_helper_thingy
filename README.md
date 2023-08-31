@@ -23,3 +23,19 @@ You can install the required packages using pip:
 ```bash
 pip install gradio
 pip install tk
+
+## Usage
+
+1. Run the script:
+
+\`\`\`bash
+python generate_and_save_prompts.py
+\`\`\`
+
+2. Open the Gradio interface that appears in your web browser.
+   
+3. Fill in the input fields (`prompt`, `prepend`, `append`, `args`) as needed.
+
+4. Click the "Submit" button to generate the prompts.
+
+5. A file explorer window will appear, allowing you to choose where to save the generated prompts as a `.txt` file.
