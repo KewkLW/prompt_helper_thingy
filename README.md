@@ -1,8 +1,11 @@
-# Text Prompt Generator with Gradio Interface
+# Prompt Helper (gradio)
 
 ## Overview
 
-This Python script uses Gradio to create a simple web-based interface for generating text prompts based on user input. The interface allows users to input four types of text:
+![image](https://github.com/KewkLW/prompt_helper_thingy/assets/57611539/b3708731-13f0-4dca-a0b9-f83406703cd6)
+
+
+This Python script uses Gradio to create a simple web-based interface for amalgamating text prompts (easily) based on user input. The interface allows users to input four types of text:
 
 - `prompt`: The main text that serves as the base prompt.
 - `prepend`: Text that will be prepended to the main prompt.
