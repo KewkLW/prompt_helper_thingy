@@ -1,4 +1,4 @@
-# Prompt Helper (gradio)
+# Prompt Helper
 
 ## Overview
 
